@@ -4,5 +4,4 @@
  Analyse Netflix Content
  Explore content availability across countries
  Compare movies and tv shows
- Throuth this project i improve my skills and it look as game for me 
- Very interesting
+ Througth this project i improve my skills and it is Very interesting to do
